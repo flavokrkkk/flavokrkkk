@@ -1,6 +1,7 @@
-# Привет, меня зовут Егор!
-
-<h3>Full Stack Developer</h3>
+<div id="header" align="center">
+  <h1>Привет, меня зовут Егор!</h1>
+  <h3>Full Stack Developer</h3>
+</div>
 
 
 ### 🌟 Обо мне:
