@@ -63,17 +63,6 @@
 --- -->
 ### ⚙️ GitHub статистика:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavokrkkk&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavokrkkk&theme=vision-friendly-dark" />
-    </td>
-     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flavokrkkk&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavokrkkk&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flavokrkkk&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flavokrkkk&theme=default)
