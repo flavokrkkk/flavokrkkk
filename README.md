@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <h1>Привет, меня зовут Егор!</h1>
-   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=700&size=28&pause=1000&color=000000&random=false&width=458&lines=FrontEnd+Developer" alt="Typing SVG" /></a>
+ 
+   <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=700&size=28&pause=1000&color=000000&random=false&width=458&lines=FrontEnd+Developer" alt="Typing SVG" /></a>
+   </div>
 
 
 
