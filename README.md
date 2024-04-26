@@ -69,10 +69,10 @@
 ---
 
 
-<!-- ### 💻 Codewars:
+ ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
---- -->
+[![codewars](https://www.codewars.com/users/flavokrkkk/badges/large)](https://www.codewars.com/users/flavokrkkk) 
+
 ### ⚙️ GitHub статистика:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flavokrkkk&theme=default)
