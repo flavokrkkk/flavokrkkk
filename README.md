@@ -78,7 +78,7 @@
 [![codewars](https://www.codewars.com/users/flavokrkkk/badges/large)](https://www.codewars.com/users/flavokrkkk) 
 
  ### 💻 LeetCode:
-<div align="center">
+<div align="start">
     <a href="https://leetcode.com/u/flavokrkkk/" target="_blank">
         <img src="https://leetcard.jacoblin.cool/flavokrkkk?theme=dark" alt="flavokrkkk's leetcode stats">
     </a>
