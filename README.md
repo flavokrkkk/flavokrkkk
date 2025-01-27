@@ -17,6 +17,7 @@
 - :seedling: Дополнительно изучаю прикладную математику и расширяю свои навыки в алгоритмах!
 
 - 💬 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-YarovitsynEgor-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/flavokrkkk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:egoryarovitsyn1@gmail.com)
+- Также мое портфолио: https://portfolio-4lt2jashg-flavokrkkks-projects.vercel.app
 
 ---
 
