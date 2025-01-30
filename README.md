@@ -76,7 +76,7 @@
 
  ### 💻 Codewars:
 
-[![codewars](https://www.codewars.com/users/flavokrkkk/badges/large)](https://www.codewars.com/users/flavokrkkk) 
+[![codewars](https://www.codewars.com/users/flavokrkkk/badges/large)](#) 
 
  ### 💻 LeetCode:
 <div align="start">
