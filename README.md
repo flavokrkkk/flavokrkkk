@@ -38,7 +38,7 @@
   <a href="mailto:egoryarovitsyn1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[https://vk.com/egor__yar](https://vk.com/flavokrkkk)" target="_blank">
+  <a href="https://vk.com/flavokrkkk" target="_blank">
     <img src="https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=white" alt="VK"/>
   </a>
 </div>
