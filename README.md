@@ -18,7 +18,8 @@
 - 🎓 Studying *Information Systems & Programming*  
 - 🌱 Exploring algorithms and applied math  
 - 💻 Passionate about clean code and scalable UIs  
-- 🌐 Check my [Portfolio](https://portfolio-4lt2jashg-flavokrkkks-projects.vercel.app)  
+- 🌐 Check my [Portfolio](https://portfolio-4lt2jashg-flavokrkkks-projects.vercel.app)
+- 🏆 Check my [Team](https://l.itatmisis.ru/t4k_misis)  
 
 ---
 
