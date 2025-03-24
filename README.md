@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <h3>🚀 Frontend Dev | Kostroma, Russia</h3>
+  <h3>🚀 Frontend Dev | Russia</h3>
   <p>From Java basics to crafting pixel-perfect web apps with Next.js. My mission? Land at Google and build tech that inspires.</p>
 </div>
 
