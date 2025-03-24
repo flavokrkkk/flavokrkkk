@@ -71,3 +71,8 @@
 <div align="center">
   <p>💡 <i>“Code today, change tomorrow.”</i></p>
 </div>
+
+<div align="center">
+  <p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{K1rsN7}/count.svg" /></p> 
+</div>
