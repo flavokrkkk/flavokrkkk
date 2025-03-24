@@ -69,6 +69,14 @@
 
 ---
 
+ <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=flavorkkk&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+  <a href="https://github.com/flavorkkk/flavorkkk"><img alt="flavorkkk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=flavorkkk&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <img src="https://wakatime.com/share/@flavorkkk/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
+  </div>
+
+---
+
 <div align="center">
   <p>💡 <i>“Code today, change tomorrow.”</i></p>
 </div>
