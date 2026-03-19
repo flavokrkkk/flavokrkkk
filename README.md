@@ -67,13 +67,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavokrkkk&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </div>
 
----
-
-<div align="center">
-  <p>💡 <i>“Code today, change tomorrow.”</i></p>
-</div>
-
-<div align="center">
-  <p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{flavokrkkk}/count.svg" /></p> 
-</div>
