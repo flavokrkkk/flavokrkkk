@@ -1,14 +1,14 @@
 <div align="center">
   <h1>👋 Hi, I’m Egor!</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=600&size=30&pause=1000&color=1A73E8&vCenter=true&width=350&lines=Frontend+Developer;Chasing+Google+Dreams" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=600&size=30&pause=1000&color=1A73E8&vCenter=true&width=350&lines=FullStack+Developer;Chasing+Google+Dreams" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3>🚀 Frontend Dev | Russia</h3>
+  <h3>🚀 Fullstack Dev | Russia</h3>
   <p>From Java basics to crafting pixel-perfect web apps with Next.js. My mission? Land at Google and build tech that inspires.</p>
 </div>
 
@@ -18,7 +18,6 @@
 - 🎓 Studying *Information Systems & Programming*  
 - 🌱 Exploring algorithms and applied math  
 - 💻 Passionate about clean code and scalable UIs  
-- 🌐 Check my [Portfolio](https://portfolio-4lt2jashg-flavokrkkks-projects.vercel.app)
 - 🏆 Check my [Team](https://l.itatmisis.ru/t4k_misis)  
 
 ---
