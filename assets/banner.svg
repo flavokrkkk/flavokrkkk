@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
-  <title id="t">Egor Yarovitsyn — frontend developer</title>
-  <desc id="d">Frontend developer: React, Next.js, TypeScript, Python / FastAPI, AI-assisted development. Lead frontend developer at Sovcombank, 4 years of commercial development, IT Purple Hack 2025 winner. On the right, an animated flow of his MCP server: agent, MCP server, OpenAPI spec, TypeScript types, React UI.</desc>
+  <title id="t">Egor Yarovitsyn — fullstack developer</title>
+  <desc id="d">Fullstack developer: TypeScript and Python — React, Next.js, FastAPI, PostgreSQL, AI tooling. Building at Sovcombank, 4 years of commercial development, about two of them with Python, IT Purple Hack 2025 winner. On the right, an animated flow of his MCP server: agent, MCP server, OpenAPI spec, TypeScript types, React UI.</desc>
   <style>
     .drift1 { animation: drift1 18s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
     .drift2 { animation: drift2 22s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
@@ -90,21 +90,21 @@
   <text class="sans" x="62" y="160" font-size="66" font-weight="800" letter-spacing="-1" fill="url(#name)">Egor Yarovitsyn</text>
 
   <g class="sans">
-    <text x="64" y="204" font-size="23" fill="#E2E8F0">Frontend developer · React · Next.js · TypeScript</text>
-    <text x="64" y="238" font-size="19" fill="#94A3B8">+ Python / FastAPI backend · AI-assisted development</text>
+    <text x="64" y="204" font-size="23" fill="#E2E8F0">Fullstack developer · TypeScript · Python</text>
+    <text x="64" y="238" font-size="19" fill="#94A3B8">React · Next.js · FastAPI · PostgreSQL · AI tooling</text>
   </g>
 
   <g class="sans" font-size="15" font-weight="600">
-    <rect x="64" y="262" width="252" height="38" rx="19" fill="#0B1222" fill-opacity="0.85" stroke="#34D399" stroke-opacity="0.55"/>
+    <rect x="64" y="262" width="236" height="38" rx="19" fill="#0B1222" fill-opacity="0.85" stroke="#34D399" stroke-opacity="0.55"/>
     <circle cx="86" cy="281" r="5" fill="#34D399"/>
     <circle class="live" cx="86" cy="281" r="5" fill="#34D399"/>
-    <text x="100" y="286" fill="#A7F3D0">Lead frontend · Sovcombank</text>
+    <text x="100" y="286" fill="#A7F3D0">Building at Sovcombank</text>
 
-    <rect x="328" y="262" width="164" height="38" rx="19" fill="#0B1222" fill-opacity="0.85" stroke="#A78BFA" stroke-opacity="0.55"/>
-    <text x="410" y="286" text-anchor="middle" fill="#DDD6FE">4 yrs commercial</text>
+    <rect x="312" y="262" width="176" height="38" rx="19" fill="#0B1222" fill-opacity="0.85" stroke="#A78BFA" stroke-opacity="0.55"/>
+    <text x="400" y="286" text-anchor="middle" fill="#DDD6FE">4 yrs commercial</text>
 
-    <rect x="504" y="262" width="230" height="38" rx="19" fill="#0B1222" fill-opacity="0.85" stroke="#FBBF24" stroke-opacity="0.55"/>
-    <text x="619" y="286" text-anchor="middle" fill="#FDE68A">IT Purple Hack 2025 winner</text>
+    <rect x="500" y="262" width="230" height="38" rx="19" fill="#0B1222" fill-opacity="0.85" stroke="#FBBF24" stroke-opacity="0.55"/>
+    <text x="615" y="286" text-anchor="middle" fill="#FDE68A">IT Purple Hack 2025 winner</text>
   </g>
 
   <g>

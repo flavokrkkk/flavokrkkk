@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Egor Yarovitsyn — frontend developer: React, Next.js, TypeScript, Python / FastAPI, AI-assisted development" />
+  <img src="./assets/banner.svg" width="100%" alt="Egor Yarovitsyn — fullstack developer: TypeScript and Python, React, Next.js, FastAPI, PostgreSQL, AI tooling" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## About
 
-4 years of commercial development. Lead frontend developer at Sovcombank: the frontend of Tekhnologii Dobra, the bank's portal for 3,000+ non-profits from 79 regions (Next.js 15, SSR, ~42k lines of TypeScript), an internal CRM for curators, and the presentation-generation module of the bank's AI assistant, built end to end from FastAPI to React.
+Fullstack developer, 4 years of commercial development with React, Next.js and TypeScript, about two of them also with a Python / FastAPI backend. At Sovcombank I'm a lead frontend developer: the frontend of Tekhnologii Dobra, the bank's portal for 3,000+ non-profits from 79 regions (Next.js 15, SSR, ~42k lines of TypeScript), an internal CRM for curators, and the presentation-generation module of the bank's AI assistant, built end to end from FastAPI to React.
 
 I work AI-first: Claude Code and Codex every day, my own MCP server for API contracts, AI code review in CI/CD. Agent output gets the same review as a colleague's: diff and tests.
 
